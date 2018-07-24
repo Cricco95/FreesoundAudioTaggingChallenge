@@ -1,0 +1,7 @@
+audio_test/
+audio_train/
+train_dir/
+class_map.csv
+predictions.csv
+sample_submission.csv
+validation.csv
